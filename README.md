@@ -1,7 +1,9 @@
 # Proyecto-2-Python-Avanzada
 Proyecto de la Upso - Bahurlet Micaela - Domé Florencia - Spinetta Carlos
 
+## Diagrama de flujo del menú
 
+![Diagrama de Flujo del Menú](https://github.com/ironcharly/Proyecto-2-Python-Avanzada/blob/d2270c4cf878d4612c1f3500b9c91eac3f3ed5c6/Dieagrama%20de%20flujo%20Menu.jpg)
 # CONCLUSIONES
 
 ## ¿Cuál fue el desempeño del modelo?
